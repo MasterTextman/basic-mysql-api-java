@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO" monitorInterval="60">
+    <Appenders>
+        <Console name="console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss,SSS} %p [%t] ${traceSpanPattern} [%F:%L] %m%n" />
+        </Console>
+        <Console name="basic" target="SYSTEM_OUT">
+
+        </Console>
+        <File
+                name="file"
+                fileName="nice.log"
+                append="false">
+                <!--filePattern="nice.log.%i">-->
+                <!--fileName="${general.log4j.logging.path}/${project.build.finalName}.log"-->
+                <!--filePattern="${general.log4j.logging.path}/${project.build.finalName}.log.%i">-->
+
+            <PatternLayout pattern="%-10p %d{ISO8601} %-15C{1} %t %m %n" />
+            <!--<Policies>-->
+                <!--<SizeBasedTriggeringPolicy size="102400 KB" />-->
+            <!--</Policies>-->
+            <!--<DefaultRolloverStrategy max="5"/>-->
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="debug">
+            <AppenderRef ref="console"/>
+        </Root>
+
+        <Logger name="com.pnap.sql.jsql" level="debug">
+            <!--<AppenderRef ref="basic"/>-->
+            <AppenderRef ref="file"/>
+        </Logger>
+    </Loggers>
+</Configuration>

@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0849d45-57c5-4d30-b9bd-573daddbe2d4" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SyncedDatabase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/SyncedDatabase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+              <folding>
+                <element signature="method#SyncedDatabase#0;class#SyncedDatabase#0" expanded="false" />
+                <element signature="method#SyncedDatabase#1;class#SyncedDatabase#0" expanded="false" />
+                <element signature="method#addTable#0;class#SyncedDatabase#0" expanded="false" />
+                <element signature="method#addTable#1;class#SyncedDatabase#0" expanded="false" />
+                <element signature="method#removeTable#0;class#SyncedDatabase#0" expanded="false" />
+                <element signature="method#dropAll#0;class#SyncedDatabase#0" expanded="false" />
+                <element signature="method#getSyncedTable#0;class#SyncedDatabase#0" expanded="false" />
+                <element signature="method#generateSyncedTables#0;class#SyncedDatabase#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SDatabase.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/SDatabase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="774">
+              <caret line="165" column="61" lean-forward="false" selection-start-line="165" selection-start-column="61" selection-end-line="165" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#SDatabase#0;class#SDatabase#0" expanded="false" />
+                <element signature="method#syncWithMySQL#0;class#SDatabase#0" expanded="false" />
+                <element signature="method#createTable#0;class#SDatabase#0" expanded="false" />
+                <element signature="method#toJDatabase#0;class#SDatabase#0" expanded="false" />
+                <element signature="method#dropTable#0;class#SDatabase#0" expanded="false" />
+                <element signature="e#5350#5351#0" expanded="true" />
+                <element signature="e#5423#5424#0" expanded="true" />
+                <element signature="e#5451#5452#0" expanded="true" />
+                <element signature="e#5500#5501#0" expanded="true" />
+                <element signature="e#5524#5525#0" expanded="true" />
+                <element signature="e#5569#5570#0" expanded="true" />
+                <element signature="method#toString#0;class#SDatabase#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;contacts&quot;</find>
+      <find>&quot;name, phone, email&quot;</find>
+      <find>LOGGER</find>
+      <find>System.err.println(</find>
+      <find>System.out.println(&quot;</find>
+      <find>System.err.println(&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>TABLENAME</replace>
+      <replace>COLUMNS</replace>
+      <replace>System.out.println(&quot;\\e[0;31m</replace>
+      <replace>System.out.println(anc.WHITE + &quot;</replace>
+      <replace>System.out.println(anc.RED + &quot;</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/TableExistsException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/SQLayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/Example.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/Testing/Example.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/Database.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/TableConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/ColumnC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/Column.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/TableC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/Table.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/jsql/JColumn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/anc.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/jsql/JDatabase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/api/Database.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/api/Table.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/jsql/JTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/jsql/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/api/Column.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/connect/Column.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sql/api/connect/Column.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/jsql/anc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/synced/SyncMisc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/MainFromFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/DatabaseFileTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/SyncedDatabaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/DatabaseChainingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/temp/sqlapi/connect/Column.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/connect/Column.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/DatabaseSyncTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/jsql/JDatabase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/connect/Table.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/jsql/JTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/synced/SyncedTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/connect/Database.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/synced/SyncedDatabase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/connect/JTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/connect/SyncedTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/SyncedTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/JTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/STable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/JDatabase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/SyncedDatabase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/SDatabase.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="D:/Tools/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\Tools\apache-maven\user_settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="331" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1017" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SQLAttempt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQLAttempt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQLAttempt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQLAttempt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQLAttempt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQLAttempt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQLAttempt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQLAttempt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQLAttempt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQLAttempt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Database" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\SQLAttempt\src\main\java\temp" />
+      <recent name="D:\workspace\SQLAttempt\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DatabaseSyncTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="DatabaseChainingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.pnap.sqlapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.pnap.sqlapi.DatabaseChainingTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SQLAttempt" />
+      <envs />
+    </configuration>
+    <configuration name="DatabaseFileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.pnap.sqlapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.pnap.sqlapi.DatabaseFileTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SQLAttempt" />
+      <envs />
+    </configuration>
+    <configuration name="DatabaseSyncTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.pnap.sqlapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.pnap.sqlapi.DatabaseSyncTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SQLAttempt" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.pnap.sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.pnap.sql.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SQLAttempt" />
+      <envs />
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.pnap.sql.jsql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.pnap.sql.jsql.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SQLAttempt" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.main (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DatabaseFileTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DatabaseChainingTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DatabaseSyncTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.DatabaseSyncTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DatabaseChainingTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DatabaseFileTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.main" />
+        <item index="4" class="java.lang.String" itemvalue="Application.main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0849d45-57c5-4d30-b9bd-573daddbe2d4" name="Default" comment="" />
+      <created>1531142411302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531142411302</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5021322" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32356134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3984799" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.4978678" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/JDatabase.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="28" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sql/Song.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sql/Album.java" />
+    <entry file="jar://D:/Tools/apache-maven/repository/mysql/mysql-connector-java/8.0.11/mysql-connector-java-8.0.11.jar!/com/mysql/cj/jdbc/result/ResultSetMetaData.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="35" column="108" lean-forward="false" selection-start-line="35" selection-start-column="108" selection-end-line="35" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/OpenJDK/src.zip!/java/sql/ResultSetMetaData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="229" column="11" lean-forward="false" selection-start-line="229" selection-start-column="11" selection-end-line="229" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sql/TableExistsException.java" />
+    <entry file="jar://D:/Java/OpenJDK/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="3366" column="13" lean-forward="false" selection-start-line="3366" selection-start-column="13" selection-end-line="3366" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sql/Testing/Example.java" />
+    <entry file="file://$PROJECT_DIR$/lol.dat" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sql/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sql/jsql/JColumn.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/SQLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contents.txt" />
+    <entry file="file://$PROJECT_DIR$/nice.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/OpenJDK/src.zip!/java/lang/Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-569">
+          <caret line="54" column="22" lean-forward="false" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sql/main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sql/jsql/main.java" />
+    <entry file="file://$PROJECT_DIR$/${general.log4j.logging.path}/${project.build.finalName}.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newdatabase.db" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/synced/SyncMisc.java" />
+    <entry file="file://$PROJECT_DIR$/TestDatabase.db" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/DatabaseFileTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/OpenJDK/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="120" column="8" lean-forward="false" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Worldwide.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/temp/sqlapi/jsql/anc.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/temp/sqlapi/connect/Table.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/temp/sqlapi/jsql/JTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/temp/sqlapi/jsql/JDatabase.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/temp/sqlapi/DatabaseSyncTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/temp/sqlapi/synced/SyncedTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/temp/sqlapi/connect/Database.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/temp/sqlapi/DatabaseChainingTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/temp/sqlapi/synced/SyncedDatabase.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/temp/sqlapi/connect/Column.java" />
+    <entry file="jar://D:/Java/OpenJDK/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="110" column="19" lean-forward="false" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/OpenJDK/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="168" column="14" lean-forward="false" selection-start-line="168" selection-start-column="14" selection-end-line="168" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/OpenJDK/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="271" column="6" lean-forward="false" selection-start-line="271" selection-start-column="6" selection-end-line="271" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/SColumn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="79" column="39" lean-forward="true" selection-start-line="79" selection-start-column="39" selection-end-line="79" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/anc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/DatabaseSyncTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/STable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="106" column="20" lean-forward="true" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
+          <folding>
+            <element signature="method#STable#0;class#STable#0" expanded="false" />
+            <element signature="method#insert#0;class#STable#0" expanded="false" />
+            <element signature="method#update#0;class#STable#0" expanded="false" />
+            <element signature="method#delete#0;class#STable#0" expanded="false" />
+            <element signature="method#project#0;class#STable#0" expanded="false" />
+            <element signature="method#dumpContents#0;class#STable#0" expanded="false" />
+            <element signature="method#columnsToString#0;class#STable#0" expanded="false" />
+            <element signature="method#objectArgsToStringArgs#0;class#STable#0" expanded="false" />
+            <element signature="method#getColumnNames#0;class#STable#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/JTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="161" column="53" lean-forward="false" selection-start-line="161" selection-start-column="53" selection-end-line="161" selection-end-column="53" />
+          <folding>
+            <element signature="initializer##0;class#JTable#0" expanded="false" />
+            <element signature="method#addColumn#0;class#JTable#0" expanded="false" />
+            <element signature="method#assemble#0;class#JTable#0" expanded="false" />
+            <element signature="method#insert#0;class#JTable#0" expanded="false" />
+            <element signature="method#selectRow#0;class#JTable#0" expanded="false" />
+            <element signature="method#delete#0;class#JTable#0" expanded="false" />
+            <element signature="method#update#0;class#JTable#0" expanded="false" />
+            <element signature="e#5554#5555#0" expanded="false" />
+            <element signature="e#5586#5587#0" expanded="false" />
+            <element signature="method#displayTable#0;class#JTable#0" expanded="false" />
+            <element signature="e#6763#6764#0" expanded="false" />
+            <element signature="e#6795#6796#0" expanded="false" />
+            <element signature="e#6819#6820#0" expanded="false" />
+            <element signature="e#6877#6878#0" expanded="false" />
+            <element signature="method#toSTable#0;class#JTable#0" expanded="false" />
+            <element signature="e#7178#7179#0" expanded="false" />
+            <element signature="e#7276#7277#0" expanded="false" />
+            <element signature="method#getColumnMetaData#0;class#JTable#0" expanded="false" />
+            <element signature="class#JColumn#0;class#JTable#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/SyncedTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="method#addRow#0;class#SyncedTable#0" expanded="false" />
+            <element signature="method#delete#0;class#SyncedTable#0" expanded="false" />
+            <element signature="method#delete#1;class#SyncedTable#0" expanded="false" />
+            <element signature="method#update#0;class#SyncedTable#0" expanded="false" />
+            <element signature="method#syncTables#0;class#SyncedTable#0" expanded="false" />
+            <element signature="e#1339#1340#0" expanded="false" />
+            <element signature="e#1382#1383#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/DatabaseChainingTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/JDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="98" column="27" lean-forward="false" selection-start-line="98" selection-start-column="27" selection-end-line="98" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#toDatabase#0;class#JDatabase#0" expanded="false" />
+            <element signature="method#addTable#0;class#JDatabase#0" expanded="false" />
+            <element signature="method#deleteTable#0;class#JDatabase#0" expanded="false" />
+            <element signature="method#dropAll#0;class#JDatabase#0" expanded="false" />
+            <element signature="method#getTable#0;class#JDatabase#0" expanded="false" />
+            <element signature="method#copy#0;class#JDatabase#0" expanded="false" />
+            <element signature="method#displayDatabase#0;class#JDatabase#0" expanded="false" />
+            <element signature="method#saveJDatabaseToFile#0;class#JDatabase#0" expanded="false" />
+            <element signature="method#loadJDatabaseFromFile#0;class#JDatabase#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/SyncedDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="method#SyncedDatabase#0;class#SyncedDatabase#0" expanded="false" />
+            <element signature="method#SyncedDatabase#1;class#SyncedDatabase#0" expanded="false" />
+            <element signature="method#addTable#0;class#SyncedDatabase#0" expanded="false" />
+            <element signature="method#addTable#1;class#SyncedDatabase#0" expanded="false" />
+            <element signature="method#removeTable#0;class#SyncedDatabase#0" expanded="false" />
+            <element signature="method#dropAll#0;class#SyncedDatabase#0" expanded="false" />
+            <element signature="method#getSyncedTable#0;class#SyncedDatabase#0" expanded="false" />
+            <element signature="method#generateSyncedTables#0;class#SyncedDatabase#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pnap/sqlapi/Database/SDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="165" column="61" lean-forward="false" selection-start-line="165" selection-start-column="61" selection-end-line="165" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#SDatabase#0;class#SDatabase#0" expanded="false" />
+            <element signature="method#syncWithMySQL#0;class#SDatabase#0" expanded="false" />
+            <element signature="method#createTable#0;class#SDatabase#0" expanded="false" />
+            <element signature="method#toJDatabase#0;class#SDatabase#0" expanded="false" />
+            <element signature="method#dropTable#0;class#SDatabase#0" expanded="false" />
+            <element signature="e#5350#5351#0" expanded="true" />
+            <element signature="e#5423#5424#0" expanded="true" />
+            <element signature="e#5451#5452#0" expanded="true" />
+            <element signature="e#5500#5501#0" expanded="true" />
+            <element signature="e#5524#5525#0" expanded="true" />
+            <element signature="e#5569#5570#0" expanded="true" />
+            <element signature="method#toString#0;class#SDatabase#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SQLAttempt</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.protobuf:protobuf-java:2.6.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

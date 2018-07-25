@@ -1,0 +1,20 @@
+[DEBUG] 2018-07-11 16:38:39,654 JTable.addColumn() - [37mColumn "Niety" with type "java.lang.String" has been added.
+[DEBUG] 2018-07-11 16:38:39,656 JTable.addColumn() - [37mColumn "Whoat" with type "java.lang.Integer" has been added.
+[DEBUG] 2018-07-11 16:38:39,656 JTable.addColumn() - [37mColumn "Heyhe" with type "java.lang.Long" has been added.
+[DEBUG] 2018-07-11 16:38:39,656 JTable.finishBuild() - [37mTable finalised
+[INFO ] 2018-07-11 16:38:39,657 JTable.addRow() - [37mRow added.
+[INFO ] 2018-07-11 16:38:39,657 JTable.addRow() - [37mRow added.
+[INFO ] 2018-07-11 16:38:39,657 JTable.addRow() - [37mRow added.
+[DEBUG] 2018-07-11 16:38:39,657 JTable.addColumn() - [37mColumn "Yes nice" with type "java.lang.Integer" has been added.
+[DEBUG] 2018-07-11 16:38:39,657 JTable.addColumn() - [37mColumn "No nice" with type "java.lang.String" has been added.
+[DEBUG] 2018-07-11 16:38:39,657 JTable.addColumn() - [37mColumn "HAHA nice" with type "java.sql.Time" has been added.
+[INFO ] 2018-07-11 16:38:39,657 JTable.displayTable() - [36mContents of Table "sweet"
+[INFO ] 2018-07-11 16:38:39,658 JTable.displayTable() - [34mNiety               Whoat               Heyhe               
+[INFO ] 2018-07-11 16:38:39,658 JTable.displayTable() - [37mHeyyo               3729                289237              
+[INFO ] 2018-07-11 16:38:39,658 JTable.displayTable() - [37mNicety              4373                92379               
+[INFO ] 2018-07-11 16:38:39,658 JTable.displayTable() - [37mNewrow              2932                28347               
+[INFO ] 2018-07-11 16:38:39,658 JTable.displayTable() - [32mCurrent state of Table (unfixed) Structure
+[INFO ] 2018-07-11 16:38:39,658 JTable.displayTable() - [33mTable Name           Table Type          [37m
+[INFO ] 2018-07-11 16:38:39,658 JTable.displayTable() - Yes nice             java.lang.Integer   
+[INFO ] 2018-07-11 16:38:39,659 JTable.displayTable() - No nice              java.lang.String    
+[INFO ] 2018-07-11 16:38:39,659 JTable.displayTable() - HAHA nice            java.sql.Time       
